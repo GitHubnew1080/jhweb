@@ -1,0 +1,19 @@
+* {
+    color: #ffffff !important
+}
+
+body {
+    background: url(../images/bjt1.png);
+}
+
+.ppt1 {
+    background-color: #000;
+}
+
+.imnews1 {
+    background-color: #000; 
+}
+
+.notice,.imnews2,.link,.link select,.honorsp,.tpzsqw{
+    background-color: #000;
+}
